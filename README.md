@@ -233,3 +233,5 @@ wait # Keep script running until Ctrl+C
 COPY ALL CODE AND PASTE INTO YOUR  rl-swarm FOLDER then restart node with:
 
 ```./run_rl_swarm.sh```
+
+## This will solve the problem of your node stopping frequently.
