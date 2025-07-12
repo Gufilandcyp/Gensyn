@@ -1,6 +1,7 @@
 # Gensyn
 ## Gensyn  rl-swarm folder edit for 3090 Qwen/Qwen3-0.6B  (model)
-```#!/bin/bash
+
+``` #!/bin/bash
 
 set -euo pipefail
 
